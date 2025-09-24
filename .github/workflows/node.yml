@@ -10,4 +10,4 @@ jobs:
         with:
           node-version: '18'
       - name: Run Script
-        run: node program2-js-calculator/calculator.js
+        run: node js-calculator/calculator.js
